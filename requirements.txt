@@ -1,0 +1,19 @@
+# Multi-Agent Crop Sell Simulation - Requirements
+# Core dependencies
+pandas>=3.0.0
+numpy>=2.0.0
+scipy>=1.11.0
+
+# Report generation
+fpdf2>=2.7.0
+python-pptx>=1.0.0
+python-docx>=1.0.0
+
+# Chatbot UI
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Optional: for development
+# pytest>=7.0.0
+# black>=23.0.0
+# ruff>=0.1.0
